@@ -1,10 +1,10 @@
-# 📊 Superstore Profit Analysis Dashboard
+# Superstore Profit Analysis Dashboard
 
 This Power BI dashboard presents a comprehensive profit and sales analysis based on the Superstore dataset. It explores data trends across states, regions, sub-categories, and customer segments using a variety of visualizations.
 
 ---
 
-## 🧾 Dataset Overview
+## Dataset Overview
 
 - **Source**: Sample Superstore Dataset
 - **Fields used**:  
@@ -13,14 +13,14 @@ This Power BI dashboard presents a comprehensive profit and sales analysis based
 
 ---
 
-## 📈 Key Insights Visualized
+##  Key Insights Visualized
 
-### ✅ KPI Cards
+###  KPI Cards
 - **Sum of Sales**: Total revenue generated
 - **Sum of Profit**: Total profit earned
 - **Sum of Quantity**: Total units sold
 
-### 📊 Visual Elements
+### Visual Elements
 - **Line Chart**:  
   - _Profit by Quantity Sold_ with trendline to highlight performance patterns
 
@@ -37,7 +37,7 @@ This Power BI dashboard presents a comprehensive profit and sales analysis based
 
 ---
 
-## 📁 File Details
+## File Details
 
 - `superstore_profit_dashboard.pbix`  
   The full Power BI report with all charts and insights
@@ -47,7 +47,7 @@ This Power BI dashboard presents a comprehensive profit and sales analysis based
 
 ---
 
-## 🧠 Purpose
+##  Purpose
 
 This project was created to:
 - Practice building interactive dashboards
@@ -57,23 +57,23 @@ This project was created to:
 
 ---
 
-## 📷 Preview
+##  Preview
 
 ![Dashboard Screenshot](images/dashboard-preview.png)
 
 ---
 
-## 📌 Tools Used
+##  Tools Used
 - Microsoft Power BI
 - Sample Superstore Dataset (CSV/Excel)
 
 ---
 
-## 🗂️ Project Status
-✅ Completed initial dashboard  
-🔄 Will update with more calculated columns and tooltips in next version
+## 🗂 Project Status
+-> Completed initial dashboard  
+-> Will update with more calculated columns and tooltips in next version
 
 ---
 
-## 🤝 Contributions
+##  Contributions
 This is a personal practice project. Feedback and suggestions are welcome!
