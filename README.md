@@ -69,7 +69,7 @@ This project was created to:
 
 ---
 
-## 🗂 Project Status
+## Project Status
 -> Completed initial dashboard  
 -> Will update with more calculated columns and tooltips in next version
 
